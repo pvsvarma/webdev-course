@@ -1,6 +1,6 @@
 # Full Lifecycle Web App Development with Rails
 
-An introduction to web development with Rails, taught online to friends Martin, Venkat, and Will by Andrew Sullivan.
+An introduction to web development with Rails, taught online to friends Julian, Martin, Venkat, and Will by Andrew Sullivan.
 
 ### Week 1
 
@@ -49,6 +49,7 @@ An introduction to web development with Rails, taught online to friends Martin, 
     - Angular vs Backbone vs Ember
     - Rails as JSON API (using active_model_serializers)
 - Test Driven Development (TDD)
+- jQuery
 - Debugging
     - Pry
     - Chrome dev tools
