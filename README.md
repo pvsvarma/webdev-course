@@ -38,12 +38,16 @@ An introduction to web development with Rails, taught online to friends Julian, 
     - ActiveRecord
     - MVC
     - Models
-    - Routing
     - Controllers
     - Views
         - Partials
         - Helpers
+    - Routing
+    - Decorators
     - Authentication with Devise
+    - Gems and bundler
+      - Useful/popular gems (SimpleForm, Carrierwave, Kaminari, ActiveAdmin, Figaro, ActsAsTaggableOn)
+      - https://www.ruby-toolbox.com/
 - Deployment/Heroku
 - Single Page Apps
     - Angular vs Backbone vs Ember
