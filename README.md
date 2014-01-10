@@ -30,6 +30,8 @@ An introduction to web development with Rails, taught online to friends Julian, 
 4. Create a Github account and submit a pull request for the class repository (create a directory using your first name, eg, "andrew")
 5. Look through the Bootstrap documentation
 
+***
+
 ### TBD
 
 - Rails
