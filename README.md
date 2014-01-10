@@ -22,8 +22,8 @@ An introduction to web development with Rails, taught online to friends Julian, 
 #### Homework
 
 1. Install Rails 3.2
-    - Windows: using Rails Installer
-    - OS X: using homebrew
+    - Windows: using Rails Installer (http://railsinstaller.org/en)
+    - OS X: using homebrew (http://brew.sh/)
 2. Install Sublime Text 2 and install the package manager (https://sublime.wbond.net/installation)
 3. Successfully pair with a colleague using the ST2 plugin SubliminalCollaborator (https://github.com/nlloyd/SubliminalCollaborator)
 4. Work through Code School's Try Git course (https://www.codeschool.com/courses/try-git)
