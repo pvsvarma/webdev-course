@@ -1,4 +1,4 @@
-### Week 1
+## Week 1
 
 - Introductions
 - Tools
@@ -15,7 +15,7 @@
     - Github: pull requests, etc.
 - Potential app development ideas
 
-#### Homework
+### Homework
 
 1. Install Rails 3.2
     - Windows: using Rails Installer (http://railsinstaller.org/en)
